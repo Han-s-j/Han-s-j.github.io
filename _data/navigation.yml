@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "메뉴 1"
+    url: /webTest/
+  - title: "메뉴 2"
+    url: /webTest2/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
