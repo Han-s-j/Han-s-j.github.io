@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "메뉴 1"
-    url: /webTest/
+    url: /web1/
   - title: "메뉴 2"
     url: /webTest2/
   # - title: "About"
